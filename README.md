@@ -33,7 +33,7 @@ A real-time chat application built using React for the client, Socket.IO for Web
 - Real-time chat functionality.
 - User authentication using Strapi.
 - Message storage on strapi
--Not implemented :-  retrieval message for specific authenticated users.
+- Not implemented :-  retrieval message for specific authenticated users.
 
 ## Tech Stack
 
